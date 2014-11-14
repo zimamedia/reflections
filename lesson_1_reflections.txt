@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I saw the type-o of the document and it allowed me to debug quicker.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can revert back to previous thought patterns or I can check against my progress.
+
+Anything that makes it easy to create store documents, code, and whatever content you're working on. These are all types of version control.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Forgetting to save is an issue and having a good flow to manage it would make it ideal to manage your git dif commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because multiple files are apart of the repo.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Review commits and the addition and deletion of files.
+
+How might using version control make you more confident to make changes that could break something?
+
+I can checkout previous versions to manage my commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git to manage my pending JavaScript game.
